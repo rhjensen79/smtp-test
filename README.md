@@ -1,5 +1,7 @@
 # SMTP Test
 
+Blog post related to this repo : [https://www.robert-jensen.dk/posts/2021-when-testing-got-easy/](https://www.robert-jensen.dk/posts/2021-when-testing-got-easy/)
+
 A simple repo, containing :
 
 - A smtp server, with webclient, 
